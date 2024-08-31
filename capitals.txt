@@ -1,0 +1,379 @@
+50, 328
+Damascus, 33.51653795347953, 36.279435781506315
+Jerusalem, 31.78152073741022, 35.23290899342518
+Tokyo, 35.69044169632455, 139.76560214888383
+Ankara, 39.92698480562116, 32.88048143779247
+Baghdad, 33.31471759796139, 44.3705859697876
+Rabat, 34.01153488924549, -6.856602449607032
+Moscow, 55.75538699816379, 37.62068453565529
+Tripoli, 32.88709321588712, 13.187470885309207
+Algiers, 36.81509835478717, 3.1598601183208475
+Khartoum, 15.601214217321196, 32.52715450972271
+Islamabad, 33.69228327573647, 73.04311242065121
+Canberra, -35.279682351184526, 149.13388708920775
+Beijing, 39.91840805251686, 116.40152176847724
+Berlin, 52.5135625589257, 13.385981802790303
+Helsinki, 60.16818498708036, 24.942912064066736
+Madrid, 40.41453637717091, -3.6961122287878676
+Brasilia, -15.796662810589147, -47.903148826741244
+Ottawa, 45.415209657640894, -75.66980057922743
+Antananarivo, -18.92444587870137, 47.540545394139734
+Riyadh, 24.73249488737911, 46.710771900640644
+Luanda, -8.807264812299055, 13.219433112738114
+Jakarta, -6.1968895620912585, 106.84175008660355
+Hanoi, 21.02624698257058, 105.83644130433152
+Cairo, 30.045498531088537, 31.2349398782752
+Reykjavik, 64.14633528943031, -21.9451925925552
+Lima, -12.047435439724532, -77.0143788087891
+Bogota, 4.711189784802561, -74.06810945103538
+Mexico City, 19.436297347931934, -99.15645925057079
+Stockholm, 59.330256785458275, 18.049100032414024
+London, 51.50562303508918, -0.1472224957886701
+Paris, 48.85527202591353, 2.3593122931952455
+Kuala Lumpur, 3.1484356838570697, 101.69828731564193
+Kyiv, 50.45548345275124, 30.525510384369916
+N'Djamena, 12.123400697898369, 15.026434600898062
+Sanaa, 15.361640912205022, 44.229009917173926
+Tehran, 35.70150324713414, 51.35960311729579
+Buenos Aires, -34.6069501075542, -58.363365000930614
+Caracas, 10.476342602505067, -66.91383786655567
+Wellington, -41.2922768987981, 174.77750875270672
+Rome, 41.896665928674395, 12.485858918431482
+Havana, 23.110611075216173, -82.36048522515102
+Addis Ababa, 9.020109791955365, 38.704655025016095
+Accra, 5.556691315018642, -0.20411005370786658
+Tunis, 36.812173020874, 10.181382672714847
+Abu Dhabi, 24.466497663279434, 54.367663899034
+New Delhi, 28.618911369697162, 77.21720831790333
+Kuwait City, 29.37628800023084, 47.977660790177474
+Muscat, 23.608007207627605, 58.380099420342276
+Pretoria, -25.746188211768906, 28.186981139665065
+Washington, 38.919495811834736, -77.03717297866098
+Jerusalem, Cairo
+Jerusalem, Riyadh
+Tokyo, Beijing
+Tokyo, Kuala Lumpur
+Tokyo, Abu Dhabi
+Tokyo, London
+Tokyo, Washington
+Ankara, Algiers
+Ankara, Beijing
+Ankara, New Delhi
+Ankara, Cairo
+Ankara, Jakarta
+Ankara, Ottawa
+Ankara, Kuwait City
+Ankara, Muscat
+Ankara, Islamabad
+Ankara, Canberra
+Ankara, Wellington
+Ankara, Abu Dhabi
+Ankara, Washington
+Baghdad, Kuwait City
+Baghdad, London
+Baghdad, Moscow
+Baghdad, Washington
+Tripoli, Algiers
+Tripoli, N'Djamena
+Tripoli, Beijing
+Tripoli, Cairo
+Tripoli, Accra
+Tripoli, Rome
+Tripoli, Berlin
+Tripoli, Sanaa
+Tripoli, London
+Tripoli, Abu Dhabi
+Tripoli, Damascus
+Tripoli, Khartoum
+Tripoli, Riyadh
+Tripoli, Pretoria
+Tripoli, Washington
+Moscow, Beijing
+Moscow, Abu Dhabi
+Moscow, Cairo
+Moscow, Tehran
+Moscow, Ankara
+Moscow, Algiers
+Moscow, Muscat
+Moscow, Damascus
+Moscow, Washington
+Rabat, London
+Rabat, Ankara
+Rabat, Abu Dhabi
+Rabat, Washington
+Algiers, Ankara 
+Algiers, Paris
+Algiers, Tunis
+Algiers, Abu Dhabi
+Khartoum, Cairo
+Khartoum, Ankara
+Khartoum, Abu Dhabi
+Khartoum, Riyadh
+Khartoum, Addis Ababa
+Islamabad, Abu Dhabi
+Islamabad, Ankara
+Islamabad, Beijing
+Islamabad, Riyadh
+Islamabad, Muscat
+Canberra, Abu Dhabi
+Canberra, Wellington
+Beijing, Tokyo 
+Beijing, Ankara
+Beijing, Abu Dhabi
+Beijing, Washington
+Beijing, London
+Beijing, Ottawa
+Berlin, Paris
+Berlin, London
+Berlin, Rome
+Berlin, Ankara
+Berlin, Moscow
+Berlin, Madrid
+Berlin, Stockholm
+Helsinki, Ankara
+Helsinki, London
+Helsinki, Paris
+Helsinki, Rome
+Helsinki, Moscow
+Helsinki, Madrid
+Helsinki, Berlin
+Helsinki, Abu Dhabi
+Helsinki, Stockholm
+Madrid, Paris
+Madrid, Stockholm
+Madrid, Moscow
+Madrid, Berlin
+Madrid, Rome
+Madrid, Helsinki
+Madrid, Washington
+Madrid, London
+Madrid, Bogota
+Madrid, Caracas
+Madrid, Abu Dhabi
+Madrid, Brasilia
+Brasilia, Washington 
+Brasilia, Caracas
+Brasilia, Bogota
+Brasilia, Paris
+Brasilia, Stockholm
+Brasilia, Moscow
+Brasilia, Berlin
+Brasilia, Rome
+Brasilia, Helsinki
+Brasilia, London
+Brasilia, Madrid
+Brasilia, Buenos Aires
+Brasilia, Lima
+Ottawa, Washington 
+Ottawa, Mexico City
+Ottawa, Paris
+Ottawa, London
+Ottawa, Abu Dhabi
+Antananarivo, Reykjavik
+Antananarivo, Ankara
+Antananarivo, Paris
+Antananarivo, New Delhi
+Antananarivo, Addis Ababa
+Antananarivo, Tripoli
+Antananarivo, Algiers
+Antananarivo, Luanda
+Antananarivo, N'Djamena
+Antananarivo, Khartoum
+Riyadh, Abu Dhabi
+Riyadh, New Delhi
+Riyadh, Cairo
+Riyadh, Ankara
+Riyadh, Islamabad
+Riyadh, London
+Riyadh, Kuala Lumpur
+Riyadh, Kuwait City
+Riyadh, Pretoria
+Riyadh, Muscat
+Luanda, Abu Dhabi
+Luanda, Ankara
+Luanda, Addis Ababa
+Luanda, Cairo
+Luanda, Washington
+Luanda, Paris
+Jakarta, Abu Dhabi
+Jakarta, Tokyo
+Jakarta, Ankara
+Jakarta, Beijing
+Jakarta, Kuala Lumpur
+Jakarta, Hanoi 
+Hanoi, Tokyo 
+Hanoi, Abu Dhabi
+Hanoi, Ankara
+Hanoi, Kuala Lumpur 
+Hanoi, Beijing
+Cairo, Abu Dhabi
+Cairo, Riyadh
+Cairo, Ankara
+Cairo, Paris
+Cairo, London
+Cairo, Pretoria
+Cairo, Addis Ababa 
+Cairo, Rome
+Cairo, Moscow 
+Reykjavik, Stockholm
+Reykjavik, Washington
+Reykjavik, London
+Reykjavik, Paris
+Lima, Washington
+Lima, Brasilia
+Lima, Buenos Aires
+Lima, Ottawa
+Lima, Bogota
+Lima, Caracas
+Bogota, Lima
+Bogota, Brasilia
+Bogota, Buenos Aires
+Bogota, Ankara
+Bogota, Paris
+Bogota, Ottawa
+Mexico City, Washington
+Mexico City, London
+Mexico City, Paris
+Mexico City, Ankara
+Mexico City, Brasilia
+Stockholm, London
+Stockholm, Paris
+Stockholm, Ankara
+Stockholm, Abu Dhabi
+Stockholm, Washington 
+London, Paris
+London, Stockholm
+London, Abu Dhabi
+London, Washington
+London, Ankara
+London, Beijing
+Paris, London
+Paris, Abu Dhabi
+Paris, Ankara
+Paris, Kyiv
+Paris, Madrid
+Paris, Stockholm
+Paris, Washington
+Kuala Lumpur, Tokyo
+Kuala Lumpur, Abu Dhabi
+Kuala Lumpur, Ankara
+Kuala Lumpur, Beijing
+Kuala Lumpur, Brasilia
+Damascus, Pretoria
+Damascus, Ankara
+Damascus, Cairo
+Damascus, Baghdad
+Kyiv, Washington 
+Kyiv, Ankara
+Kyiv, Paris
+Kyiv, Abu Dhabi
+Kyiv, Berlin
+Kyiv, Rome
+Kyiv, London
+Kyiv, Madrid
+Kyiv, Stockholm
+Kyiv, Helsinki
+N'Djamena, Paris
+N'Djamena, Addis Ababa
+N'Djamena, Ankara
+Sanaa, Cairo
+Sanaa, Abu Dhabi
+Sanaa, Ankara
+Sanaa, Riyadh 
+Sanaa, Addis Ababa
+Tehran, Ankara
+Tehran, Abu Dhabi
+Tehran, Paris
+Tehran, London 
+Tehran, Washington 
+Buenos Aires, Paris
+Buenos Aires, London
+Buenos Aires, Ankara
+Buenos Aires, Abu Dhabi
+Buenos Aires, Washington
+Buenos Aires, Brasilia
+Buenos Aires, Lima
+Buenos Aires, Bogota
+Caracas, Ankara
+Caracas, Rome
+Caracas, Paris
+Caracas, Madrid
+Caracas, Lima
+Caracas, Bogota
+Caracas, Buenos Aires
+Caracas, Brasilia
+Wellington, Canberra
+Wellington, Abu Dhabi
+Rome, Paris
+Rome, London
+Rome, Abu Dhabi
+Rome, Ankara
+Rome, Madrid
+Rome, Kyiv
+Rome, Berlin
+Rome, Helsinki
+Rome, Stockholm
+Addis Ababa, Luanda
+Addis Ababa, Cairo
+Addis Ababa, London
+Addis Ababa, Washington
+Addis Ababa, Beijing
+Addis Ababa, Abu Dhabi
+Addis Ababa, Ankara
+Addis Ababa, Accra
+Accra, Addis Ababa
+Accra, London
+Accra, Ankara
+Accra, Cairo
+Accra, Paris
+Accra, Abu Dhabi
+Havana, Washington 
+Havana, Ankara
+Havana, Paris
+Havana, Bogota
+Tunis, Paris
+Tunis, Ankara
+Tunis, London
+Tunis, Abu Dhabi 
+Tunis, Cairo
+Tunis, Washington
+Tunis, Algiers
+Abu Dhabi, London 
+Abu Dhabi, Paris
+Abu Dhabi, Ankara
+Abu Dhabi, Cairo
+Abu Dhabi, Muscat
+Abu Dhabi, Washington
+Abu Dhabi, Riyadh
+New Delhi, Abu Dhabi
+New Delhi, Ankara
+New Delhi, London
+New Delhi, Paris
+New Delhi, Beijing
+New Delhi, Ottawa
+Kuwait City, Abu Dhabi
+Kuwait City, London 
+Kuwait City, Cairo
+Kuwait City, New Delhi
+Kuwait City, Riyadh
+Kuwait City, Muscat
+Muscat, Abu Dhabi
+Muscat, Ankara
+Muscat, Washington 
+Muscat, Riyadh
+Muscat, London
+Muscat, Cairo
+Muscat, New Delhi
+Pretoria, Cairo
+Pretoria, Abu Dhabi
+Pretoria, Washington 
+Pretoria, London
+Pretoria, Paris
+Pretoria, Ankara
+Pretoria, Riyadh
+Washington, London
+Washington, Paris 
+Washington, Abu Dhabi
+Washington, Brasilia
+Washington, Ottawa
+Washington, Havana

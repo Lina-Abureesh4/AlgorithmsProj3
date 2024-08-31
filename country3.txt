@@ -1,0 +1,204 @@
+72,166
+Moscow, 55.75538699816379, 37.62068453565529
+Tokyo, 35.69044169632455, 139.76560214888383
+Beijing, 39.91840805251686, 116.40152176847724
+Canberra, -35.279682351184526, 149.13388708920775
+Jakarta, -6.1968895620912585, 106.84175008660355
+Hanoi, 21.02624698257058, 105.83644130433152
+New Delhi, 28.618911369697162, 77.21720831790333
+Islamabad, 33.69228327573647, 73.04311242065121
+Tehran, 35.70150324713414, 51.35960311729579
+Riyadh, 24.73249488737911, 46.710771900640644
+Sanaa, 15.361640912205022, 44.229009917173926
+Muscat, 23.608007207627605, 58.380099420342276
+Damascus, 33.51653795347953, 36.279435781506315
+Jerusalem, 31.78152073741022, 35.23290899342518
+Ankara, 39.92698480562116, 32.88048143779247
+Kyiv, 50.45548345275124, 30.525510384369916
+Helsinki, 60.16818498708036, 24.942912064066736
+Stockholm, 59.330256785458275, 18.049100032414024
+Rome, 41.896665928674395, 12.485858918431482
+Paris, 48.85527202591353, 2.3593122931952455
+London, 51.50562303508918, -0.1472224957886701
+Madrid, 40.41453637717091, -3.6961122287878676
+Rabat, 34.01153488924549, -6.856602449607032
+Algiers, 36.81509835478717, 3.1598601183208475
+Tripoli, 32.88709321588712, 13.187470885309207
+Cairo, 30.045498531088537, 31.2349398782752
+Khartoum, 15.601214217321196, 32.52715450972271
+Addis Ababa, 9.020109791955365, 38.704655025016095
+N'Djamena, 12.123400697898369, 15.026434600898062
+Antananarivo, -18.92444587870137, 47.540545394139734
+Pretoria, -25.746188211768906, 28.186981139665065
+Reykjavik, 64.14633528943031, -21.9451925925552
+Ottawa, 45.415209657640894, -75.66980057922743
+Mexico City, 19.436297347931934, -99.15645925057079
+Bogota, 4.711189784802561, -74.06810945103538
+Brasilia, -15.796662810589147, -47.903148826741244
+Buenos Aires, -34.6069501075542, -58.363365000930614
+Jakarta,Hanoi
+China,Nepal
+Nepal,China
+Mongolia,China
+China,Mongolia
+South Korea,China
+China,South Korea
+Japan,South Korea
+South Korea,Japan
+Myanmar (Burma),China
+China,Myanmar (Burma)
+Thailand,Myanmar (Burma)
+Myanmar (Burma),Thailand
+Vietnam,Thailand
+Thailand,Vietnam
+Vietnam,Indonesia
+Australia,Indonesia
+Indonesia,Australia
+Nepal,Myanmar (Burma)
+Myanmar (Burma),Nepal
+Nepal,India
+India,Nepal
+Pakistan,India
+Afghanistan,Pakistan
+Pakistan,Afghanistan
+Turkmenistan,Afghanistan
+Afghanistan,Turkmenistan
+Kyrgyzstan,Turkmenistan
+Turkmenistan,Kyrgyzstan
+Kyrgyzstan,Kazakhstan
+Kazakhstan,Kyrgyzstan
+Iran,Pakistan
+Pakistan,Iran
+Saudi Arabia,Iran
+Iran,Saudi Arabia
+India,Oman
+Oman,India
+Oman,Saudi Arabia
+Saudi Arabia,Oman
+Yemen,Saudi Arabia
+Saudi Arabia,Yemen
+Iran,Egypt
+Egypt,Iran
+Palestine,Egypt
+Egypt,Palestine
+Syria,Palestine
+Palestine,Syria
+Türkiye,Syria
+Syria,Türkiye
+Greece,Türkiye
+Türkiye,Greece
+Romania,Greece
+Greece,Romania
+Ukraine,Romania
+Romania,Ukraine
+Belarus,Ukraine
+Ukraine,Belarus
+Finland,Belarus
+Belarus,Finland
+Sweden,Finland
+Finland,Sweden
+Sweden,Norway
+Norway,Sweden
+Denmark,Norway
+Norway,Denmark
+Poland,Denmark
+Denmark,Poland
+Austria,Denmark
+Denmark,Austria
+Romania,Austria
+Austria,Romania
+Italy,Austria
+Austria,Italy
+Italy,France
+France,Italy
+France,UK
+UK,France
+Ireland,UK
+UK,Ireland
+Spain,France
+France,Spain
+Spain,Morocco
+Morocco,Spain
+Algeria,Morocco
+Morocco,Algeria
+Libya,Algeria
+Algeria,Libya
+Libya,Egypt
+Egypt,Libya
+Western Sahara,Algeria
+Algeria,Western Sahara
+Mauritania,Western Sahara
+Western Sahara,Mauritania
+Mauritania,Mali
+Mali,Mauritania
+Niger,Mali
+Mali,Niger
+Chad,Niger
+Niger,Chad
+Sudan,Chad
+Chad,Sudan
+Ethiopia,Sudan
+Sudan,Ethiopia
+Ethiopia,Somalia
+Somalia,Ethiopia
+Uganda,Somalia
+Somalia,Uganda
+Tanzania,Uganda
+Uganda,Tanzania
+Malawi,Tanzania
+Tanzania,Malawi
+Madagascar,Malawi
+Malawi,Madagascar
+Zimbabwe,Malawi
+Malawi,Zimbabwe
+South Africa,Zimbabwe
+Zimbabwe,South Africa
+Namibia,South Africa
+South Africa,Namibia
+Angola,Namibia
+Namibia,Angola
+Republic of the Congo,Angola
+Angola,Republic of the Congo
+Cameroon,Republic of the Congo
+Republic of the Congo,Cameroon
+Nigeria,Cameroon
+Cameroon,Nigeria
+Benin,Nigeria
+Nigeria,Benin
+Benin,Indonesia
+Indonesia,Madagascar
+Madagascar,Australia
+Australia,South Africa
+South Africa,Australia
+Argentina,South Africa
+South Africa,Argentina
+Paraguay,Argentina
+Argentina,Paraguay
+Paraguay,Brazil
+Brazil,Paraguay
+Colombia,Brazil
+Brazil,Colombia
+Colombia,Mexico
+Mexico,Colombia
+United States,Mexico
+Mexico,United States
+United States,Canada
+Canada,United States
+Greenland,Canada
+Canada,Greenland
+Iceland,Greenland
+Greenland,Iceland
+Sweden,Russia
+Russia,Sweden
+Western Sahara,Colombia
+Colombia,Western Sahara
+Colombia,Romania
+Romania,Colombia
+Uganda,Oman
+Oman,Uganda
+United States,Spain
+Spain,United States
+Mongolia,Nepal
+Nepal,Mongolia
+Uganda,Cameroon
+Cameroon,Uganda
