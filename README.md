@@ -1,5 +1,7 @@
 # Shortest Path with Dijkstra 🗺️
 
+Project Description 🧾
+
 ## Overview
 This project focuses on implementing Dijkstra's Algorithm to compute the shortest path between two cities, based on a map of the world. The primary goal is to provide the user with the route that results in the lowest cost between two cities, taking into account the Euclidean distances between cities, represented as a weighted graph.
 
@@ -9,15 +11,14 @@ All data in the project is *real* data.
 The cities will be represented as vertices, and the roads (edges) between them will have weights based on their Euclidean distances. A sample input format will list the number of cities, their coordinates, and the edges (connections between cities).
 
 ### Formula used to calculate the distance between two cities
-Given the longitude and latitude of two cities, the distance (in km) is calculated with:
+Given the longitude and latitude of two cities, and after converting them to **radian**,
 
+the distance (in km) is calculated with:
 ```
 acos( sin(lat1)*sin(lat2) + cos(lat1)*cos(lat2)*cos(lon2-lon1) ) * 6371
 ```
-
-(6371 is Earth radius in km.)
-
-
+Note: 6371 is Earth radius in km.
+  
 ## Screenshots of the program
 
 ### Start Screen
