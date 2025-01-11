@@ -49,7 +49,6 @@ public class Main extends Application {
 	@Override
 	public void start(Stage primaryStage) {
 		try {
-//			BorderPane root = new BorderPane();
 			primaryView(primaryStage);
 			Scene scene = new Scene(primaryViewPane, 1535, 800);
 			scene.getStylesheets().add(getClass().getResource("application.css").toExternalForm());
@@ -92,9 +91,6 @@ public class Main extends Application {
 	}
 
 	public void primaryView(Stage stage) {
-
-//		btnDiscover.setDisable(true);
-
 		// get image
 		Image img = new Image("earth.jpg");
 		ImageView imgView = new ImageView(img);
@@ -107,7 +103,6 @@ public class Main extends Application {
 		lblTitle.setFont(Font.font("Lucida Calligraphy", FontWeight.BOLD, 40));
 		lblTitle.setPadding(new Insets(30));
 		lblTitle.setTextAlignment(TextAlignment.CENTER);
-//		lblTitle.setTextFill(Color.FIREBRICK);
 
 		lblTitle.setStyle("-fx-text-fill: #FF7777;");
 
@@ -121,7 +116,6 @@ public class Main extends Application {
 		btnDiscover.setFont(Font.font("Times New Roman", FontWeight.NORMAL, 25));
 		btnDiscover.setPrefSize(340, 50);
 		btnDiscover.setStyle("-fx-background-color: transparent; -fx-text-fill: #FF7777;");
-//		btnDiscover.setTextFill(Color.FIREBRICK);
 
 		Button btnLoad = new Button("load data from a file");
 		btnLoad.setFont(Font.font("Times New Roman", FontWeight.NORMAL, 20));
@@ -204,7 +198,6 @@ public class Main extends Application {
 			put_points_on_map(imgPane);
 		});
 
-		//
 		VBox box = new VBox(30);
 		box.setAlignment(Pos.CENTER_LEFT);
 		box.setPadding(new Insets(0, 20, 0, 0));
@@ -212,7 +205,6 @@ public class Main extends Application {
 		GridPane gridPane = new GridPane();
 		gridPane.setHgap(30);
 		gridPane.setVgap(15);
-//		gridPane.setPadding(new Insets(80, 20, 0, 90));
 
 		Label lblSource = new Label("Source: ");
 		Label lblTarget = new Label("Target: ");
@@ -313,13 +305,6 @@ public class Main extends Application {
 		});
 
 		btnRun.setOnAction(e -> {
-//			cmboSource.setValue(null);
-//			cmboTarget.setValue(null);
-//			txtAreaPath.clear();
-//			txtDistance.clear();
-//			btnRun.setDisable(false);
-//			timeClicked = 0;
-
 			Line[] lines = new Line[numberOfLines];
 			int i = 0;
 			for (var node : imgPane.getChildren()) {
@@ -347,9 +332,6 @@ public class Main extends Application {
 				} else
 					txtAreaPath
 							.setText("There is no path from " + cmboSource.getValue() + " to " + cmboTarget.getValue());
-
-//				cmboSource.setDisable(true);
-//				cmboTarget.setDisable(true);
 			}
 		});
 
@@ -433,15 +415,11 @@ public class Main extends Application {
 				imgView.fitHeightProperty().bind(imgPane.heightProperty().divide(35));
 				imgView.fitWidthProperty().bind(imgPane.widthProperty().divide(35));
 
-//				double x = (((capital.getLatitude() + 180) / 360 * bounds.getWidth()));
-//				double y = ((capital.getLongitude() - 90) / -180 * bounds.getHeight());
-				
 				double x = (((capital.getLongitude() + 180) / 360 * bounds.getWidth()));
 				double y = ((capital.getLatitude() - 90) / -180 * bounds.getHeight());
 				
 				Circle circle = new Circle(x, y, 3);
 				circle.setManaged(false);
-//				imgPane.getChildren().add(circle);
 
 				imgView.setTranslateX(x - (imgView.getFitWidth() / 2));
 				imgView.setTranslateY(y - (imgView.getFitHeight()));
@@ -450,9 +428,6 @@ public class Main extends Application {
 				Label lblCapital = new Label();
 				lblCapital.setText(capital.getCapitalName());
 				lblCapital.setVisible(true);
-
-				// adjust label properties
-//				lblCapital.setMinHeight(primary)
 
 				lblCapital.setTranslateX(x - bounds.getWidth() / 2);
 				lblCapital.setTranslateY(y - bounds.getHeight() / 2);
@@ -470,18 +445,6 @@ public class Main extends Application {
 				});
 
 				imgPane.getChildren().add(lblCapital);
-
-//				imgPane.getChildren().add(imgView);
-
-//				imgView.setOnMouseMoved(e -> {
-//					if (!imgPane.getChildren().contains(lblCapital))
-//						imgPane.getChildren().add(lblCapital);
-//				});
-//
-//				imgView.setOnMouseExited(e -> {
-//					if (imgPane.getChildren().contains(lblCapital))
-//						imgPane.getChildren().remove(lblCapital);
-//				});
 			}
 		}
 	}
