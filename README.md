@@ -1,4 +1,4 @@
-# Shortest Path Discovery using Dijkstra's Algorithm🗺️
+# Shortest Path Discovery Using Dijkstra's Algorithm 🗺️
 
 [Project Description 🧾](https://github.com/Lina-Abureesh4/AlgorithmsProj3/blob/master/Project3_Dijkstra.pdf)
 
