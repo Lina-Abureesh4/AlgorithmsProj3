@@ -1,6 +1,6 @@
 # Shortest Path with Dijkstra 🗺️
 
-Project Description 🧾
+[Project Description 🧾](https://github.com/Lina-Abureesh4/AlgorithmsProj3/blob/master/Project3_Dijkstra.pdf)
 
 ## Overview
 This project focuses on implementing Dijkstra's Algorithm to compute the shortest path between two cities, based on a map of the world. The primary goal is to provide the user with the route that results in the lowest cost between two cities, taking into account the Euclidean distances between cities, represented as a weighted graph.
